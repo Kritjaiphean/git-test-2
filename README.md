@@ -34,3 +34,5 @@ __Explanation__  the minimum absolute difference is 1, List all pair with differ
 ###### Input arr: [1,3,6,10,15]
 
 ###### Output: [[1,3]]
+
+__Explanation__  the minimum absolute difference is 2, List all pair with difference equal to 1 in ascending order.
