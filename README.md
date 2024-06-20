@@ -11,12 +11,12 @@ a, b are from arr
 a < b
 b - a equals to the minimum absolute difference of any two elements in arr
 
-# Test case 1
+# Test case 01
 input arr: [4,2,3,1]
 output: [[1,2],[2,3],[3,4]]
 Explanation: the minimum absolute difference is 1, List all pair with difference equal to 1 in ascending order.
 
-# Test case 2
+# Test case 02
 input arr: [1,3,6,10,15]
 output: [[1,3]]
 Explanation: the minimum absolute difference is 2, List all pair with difference equal to 1 in ascending order.
