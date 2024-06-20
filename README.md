@@ -1,12 +1,17 @@
 # Live Coding
 No use of any kind of AI
+
 No search for answers
+
 Read the instruction carefully
+
 Share your screen all the time
 
 ## INSTRUCTION
 --- 
+
 Given an array of distinct integers arr, find all pairs of elements with the minimum absolute difference of any two elements.
+
 Return a list of pairs in ascending order (with respect to pairs), each pair [a, b] follows
 ===
 a, b are from arr
