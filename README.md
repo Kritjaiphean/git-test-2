@@ -26,7 +26,7 @@ Share your screen all the time
 
 ###### Output: [[1,2],[2,3],[3,4]]
 
-__Explanation__  the minimum absolute difference is 1, List all pair with difference equal to 1 in ascending order.
+__Explanation__  the minimum absolute difference is 1, List all pairs with differences equal to 1 in ascending order.
 
 ---
 *__Test case 02__*
@@ -35,4 +35,4 @@ __Explanation__  the minimum absolute difference is 1, List all pair with differ
 
 ###### Output: [[1,3]]
 
-__Explanation__  the minimum absolute difference is 2, List all pair with difference equal to 1 in ascending order.
+__Explanation__  the minimum absolute difference is 2, List all pairs with differences equal to 1 in ascending order.
